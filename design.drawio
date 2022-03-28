@@ -13,7 +13,7 @@
                 <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="2" value="Positive and negative" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="360" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=default;" parent="1" source="3" target="12" edge="1">
@@ -40,19 +40,19 @@
                 <mxCell id="5" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="600" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Input" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+                <mxCell id="9" value="Get number" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="120" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="400" width="120" height="60" as="geometry"/>
+                <mxCell id="11" value="number == 0 then it's 0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="540" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="360" y="400" width="120" height="60" as="geometry"/>
+                <mxCell id="12" value="number&amp;nbsp;&amp;lt; 0 then it's&amp;nbsp; negative" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="540" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="490" y="400" width="120" height="60" as="geometry"/>
+                <mxCell id="13" value="number&amp;nbsp;&amp;gt; 0 then it's positive" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="540" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Output" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+                <mxCell id="14" value="Show answer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="600" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
